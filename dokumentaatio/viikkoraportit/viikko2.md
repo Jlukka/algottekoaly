@@ -1,0 +1,7 @@
+- tein käytännössä viikon 1 asiat, ollut hirveä kiire
+- valitsin aiheen
+- tein määrittelydokumentin
+- en kerennyt alkaa kirjoittamaan koodia mutta alustan projektin ja alan kirjoittamaan koodia maanantaina
+- en oppinut vielä mitään
+- ei kysymyksiä
+- meni n tunti kaks

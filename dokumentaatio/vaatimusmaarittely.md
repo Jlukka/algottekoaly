@@ -1,0 +1,11 @@
+- toteutan huffman vs lempel ziv vertailun
+- toteutan ohjelman pythonilla
+- tarvittavat algoritmit
+    - huffman koodaus
+    - lz77
+- ohjelma ottaa syötteenä jonkin tiedoston jota se lukee binäärimuodossa
+- ohjelma pakkaa tiedoston molemmilla tavoilla
+- ohjelma luo purkaa tiedoston molemmilla tavoilla ja varmistaa pakkauksen oikeellisuuden
+- ohjelma luo vertailun pakkauksista, esim. aika joka kesti tehdä se ja pakatun tiedoston koko
+- Kuulun tietojenkäsittelytieteen kandiohjelmaan. 
+- Dokumentaation ajattelin kirjoittaa englanniksi kuten myös ohjelman jos se on hyväksyttävää (pl. määrittelydokumentti. toki voin sen myös kääntää tarvittaessa)
